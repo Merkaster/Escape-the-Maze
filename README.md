@@ -10,3 +10,5 @@ In each step the agent gets a reward -1. If he falls into a Mine he get a reward
 Q-learning was implemented using Python. For the Visualization, Tkinter was used.
 
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
